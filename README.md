@@ -1,4 +1,4 @@
-## CocoaLumberjackManager
+### CocoaLumberjackManager
 
 ### Usage
 
@@ -14,6 +14,9 @@
 ```Swift
 `2020-03-13 22:51:14 Info AppDelegate.swift line(65) setupCocoaLumberjack() This is a info log
 ```
+
+#### License
+This is available under the [BSD 3 license](https://github.com/CocoaLumberjack/CocoaLumberjack/blob/master/LICENSE).
 
 **At last,many thank to [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack). skoal🍺🍺**
 
